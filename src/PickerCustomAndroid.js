@@ -6,7 +6,7 @@ import {
     requireNativeComponent
 } from 'react-native';
 import PropTypes from 'prop-types';
-import isEmptyObject from '../../../src/extension/functions/string/isEmptyObject';
+import isEmptyObject from './isEmptyObject';
 import WheelPickerView from './wheel-picker';
 import { Size } from '../../../src/config/layout';
 
