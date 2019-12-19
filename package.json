@@ -1,7 +1,7 @@
 {
   "name": "react-native-rn-wheel-picker-module",
   "title": "React Native Rn picker ios和Android 都可以兼容的版本",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Rn picker ios和Android 都可以兼容的版本",
   "main": "index.js",
   "scripts": {
