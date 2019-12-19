@@ -8,7 +8,6 @@ import {
 import PropTypes from 'prop-types';
 import isEmptyObject from './isEmptyObject';
 import WheelPickerView from './wheel-picker';
-import { Size } from '../../../src/config/layout';
 
 class PickerCustomAndroid extends Component {
 
