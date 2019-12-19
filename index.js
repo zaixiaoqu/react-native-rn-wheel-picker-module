@@ -1,5 +1,10 @@
-import { NativeModules } from 'react-native';
-
+import {
+	NativeModules,
+	PickerIOS,
+	Platform,
+} from 'react-native';
+import WheelPicker from './src/PickerCustomAndroid';
 const { RnWheelPickerModule } = NativeModules;
 
-export default RnWheelPickerModule;
+export { WheelPicker, RnWheelPickerModule };
+export default (Platform.OS == 'android' ? WheelPicker : PickerIOS);
