@@ -1,0 +1,29 @@
+{
+  "name": "react-native-rn-wheel-picker-module",
+  "title": "React Native Rn picker ios和Android 都可以兼容的版本",
+  "version": "1.0.0",
+  "description": "React Native Rn picker ios和Android 都可以兼容的版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaixiaoqu/react-native-rn-wheel-picker-module.git",
+    "baseUrl": "https://github.com/zaixiaoqu/react-native-rn-wheel-picker-module"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-rn-wheel-picker-module",
+    "React Native app 自动升级"
+  ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaixiaoqu/react-native-rn-wheel-picker-module/issues"
+  },
+  "homepage": "https://github.com/zaixiaoqu/react-native-rn-wheel-picker-module.git#readme"
+}
